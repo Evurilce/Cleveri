@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='de04add9-5c68-8bab-950c-08cd5320df18'
+UUID='3ea574a9-12e1-4290-8773-7376efe00da7'
 VMESS_WSPATH='/speedm'
 VLESS_WSPATH='/speedv'
 TROJAN_WSPATH='/speedt'
