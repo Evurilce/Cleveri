@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 ENV PORT 8080
 ENV HOST 0.0.0.0
+EXPOSE 8080
 # 设置各变量
 UUID='3ea574a9-12e1-4290-8773-7376efe00da7'
 VMESS_WSPATH='/speedm'
